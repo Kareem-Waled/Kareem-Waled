@@ -321,7 +321,7 @@ Angular 17 SPA with REST API integration — reactive state, routing & component
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Kareem-Waled&amp;theme=algolia&amp;no-frame=true&amp;no-bg=true&amp;margin-w=10&amp;margin-h=10&amp;column=6" alt="GitHub Trophies"/>
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Kareem-Waled&theme=onedark&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
