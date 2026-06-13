@@ -321,7 +321,7 @@ Angular 17 SPA with REST API integration — reactive state, routing & component
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Kareem-Waled&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Kareem-Waled&amp;theme=algolia&amp;no-frame=true&amp;no-bg=true&amp;margin-w=10&amp;margin-h=10&amp;column=6" alt="GitHub Trophies"/>
 
 </div>
 
@@ -331,11 +331,9 @@ Angular 17 SPA with REST API integration — reactive state, routing & component
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Kareem-Waled/Kareem-Waled/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kareem-Waled&amp;theme=react-dark&amp;hide_border=true&amp;area=true&amp;custom_title=Kareem%20Waleed%20Contribution%20Graph" alt="GitHub Contribution Graph"/>
 
 </div>
-
-> 💡 *To enable the snake animation: add [this workflow](https://github.com/Platane/snk#usage) to `.github/workflows/snake.yml` in this repo.*
 
 ---
 
