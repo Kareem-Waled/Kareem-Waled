@@ -1,4 +1,4 @@
-[README (3).md](https://github.com/user-attachments/files/28910053/README.3.md)
+````md
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Kareem-Waled&style=for-the-badge&color=00ff9d&label=PROFILE+VIEWS&labelColor=0d1117"/>
 </div>
@@ -40,7 +40,7 @@ expertise:
 
 languages: [ "Arabic — Native", "English — Fluent", "French — Intermediate" ]
 status:    "🟢 Open to opportunities"
-```
+````
 
 ---
 
@@ -96,9 +96,9 @@ status:    "🟢 Open to opportunities"
 
 ### 🚀 [flowops-platform](https://github.com/Kareem-Waled/flowops-platform)
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square\&logo=kubernetes\&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square\&logo=argo\&logoColor=white)
 
 GitOps platform deploying 2 microservices via Docker, K8s & ArgoCD — automated sync, health checks & rollback.
 
@@ -109,8 +109,8 @@ GitOps platform deploying 2 microservices via Docker, K8s & ArgoCD — automated
 
 ### ☁️ [Terraform AWS Project](https://github.com/Kareem-Waled/Terraform_Project)
 
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square\&logo=terraform\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square\&logo=amazon-aws\&logoColor=white)
 ![HCL](https://img.shields.io/badge/HCL-7B42BC?style=flat-square)
 
 Full AWS infra with Terraform — VPC, EC2, S3 remote backend & DynamoDB state locking.
@@ -124,9 +124,9 @@ Full AWS infra with Terraform — VPC, EC2, S3 remote backend & DynamoDB state l
 
 ### 🏦 [Banking Platform on K8s](https://github.com/Kareem-Waled/banking-platform-k8s)
 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square\&logo=kubernetes\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square\&logo=nginx\&logoColor=white)
 
 3-tier banking platform — RBAC, NetworkPolicy, HPA, StatefulSet, PVC, VPA, DaemonSet & rollback.
 
@@ -137,9 +137,9 @@ Full AWS infra with Terraform — VPC, EC2, S3 remote backend & DynamoDB state l
 
 ### 🔧 [Jenkins CI/CD Pipeline](https://github.com/Kareem-Waled/Jenkins-proj)
 
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![DockerHub](https://img.shields.io/badge/DockerHub-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square\&logo=jenkins\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![DockerHub](https://img.shields.io/badge/DockerHub-2496ED?style=flat-square\&logo=docker\&logoColor=white)
 
 Automated pipeline: checkout → build → test → tag → push to DockerHub with GitHub Webhooks.
 
@@ -152,9 +152,9 @@ Automated pipeline: checkout → build → test → tag → push to DockerHub wi
 
 ### 🐳 [Docker Multi-Service App](https://github.com/Kareem-Waled/Task-Manager-Full-Stack-Docker-App)
 
-![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
 
 5-service stack: Nginx + backend + PostgreSQL + Redis — multi-stage Dockerfiles & health checks.
 
@@ -165,8 +165,8 @@ Automated pipeline: checkout → build → test → tag → push to DockerHub wi
 
 ### 🖥️ [Bash Task Manager CLI](https://github.com/Kareem-Waled/bash_task_manager)
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square\&logo=gnu-bash\&logoColor=white)
 
 Linux CLI tool for task CRUD — priority handling, overdue detection & input validation with awk/sed/grep.
 
@@ -206,11 +206,11 @@ Linux CLI tool for task CRUD — priority handling, overdue detection & input va
 <tr>
 <td width="50%" valign="top">
 
-### 🎬 [Movies RESTful API](https://github.com/Kareem-Waled/MoviesAPIs) &nbsp; ![MIT](https://img.shields.io/badge/MIT-00cc44?style=flat-square)
+### 🎬 [Movies RESTful API](https://github.com/Kareem-Waled/MoviesAPIs)   ![MIT](https://img.shields.io/badge/MIT-00cc44?style=flat-square)
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square\&logo=c-sharp\&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square\&logo=microsoft-sql-server\&logoColor=white)
 
 Full Movies API — Repository Pattern, EF Core, Swagger docs. Open source & MIT Licensed.
 
@@ -221,9 +221,9 @@ Full Movies API — Repository Pattern, EF Core, Swagger docs. Open source & MIT
 
 ### ⚡ [.NET 8 RESTful APIs](https://github.com/Kareem-Waled/.NET-8-RESTful-APIs)
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![.NET 8](https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square\&logo=c-sharp\&logoColor=white)
+![.NET 8](https://img.shields.io/badge/.NET_8-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
+![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
 
 Production-grade CRUD APIs — Repository Pattern, EF Core & SQL Server, fully tested via Postman.
 
@@ -236,9 +236,9 @@ Production-grade CRUD APIs — Repository Pattern, EF Core & SQL Server, fully t
 
 ### 💬 [Real-time Chat — SignalR](https://github.com/Kareem-Waled/ChatApplicationSignalrAngular)
 
-![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Angular 17](https://img.shields.io/badge/Angular_17-DD0031?style=flat-square&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
+![Angular 17](https://img.shields.io/badge/Angular_17-DD0031?style=flat-square\&logo=angular\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
 
 Real-time chat using ASP.NET Core SignalR WebSocket hub + Angular 17 SPA frontend.
 
@@ -249,9 +249,9 @@ Real-time chat using ASP.NET Core SignalR WebSocket hub + Angular 17 SPA fronten
 
 ### 🍽️ [MVC Restaurant App](https://github.com/Kareem-Waled/MVCRestaurant)
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square\&logo=c-sharp\&logoColor=white)
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square\&logo=bootstrap\&logoColor=white)
 
 Restaurant web app — product management, auth, cart & orders using ASP.NET Core MVC & EF Core.
 
@@ -264,8 +264,8 @@ Restaurant web app — product management, auth, cart & orders using ASP.NET Cor
 
 ### 👥 [Full-Stack Contacts App](https://github.com/Kareem-Waled/ASPNET8-Angular17-Contacts-App)
 
-![ASP.NET 8](https://img.shields.io/badge/ASP.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Angular 17](https://img.shields.io/badge/Angular_17-DD0031?style=flat-square&logo=angular&logoColor=white)
+![ASP.NET 8](https://img.shields.io/badge/ASP.NET_8-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
+![Angular 17](https://img.shields.io/badge/Angular_17-DD0031?style=flat-square\&logo=angular\&logoColor=white)
 
 ASP.NET Core 8 REST API consumed by Angular 17 SPA — CRUD with real-time UI sync.
 
@@ -276,8 +276,8 @@ ASP.NET Core 8 REST API consumed by Angular 17 SPA — CRUD with real-time UI sy
 
 ### ✅ [Angular 17 Todo + API](https://github.com/Kareem-Waled/angular_17_todo_app_with_api)
 
-![Angular 17](https://img.shields.io/badge/Angular_17-DD0031?style=flat-square&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Angular 17](https://img.shields.io/badge/Angular_17-DD0031?style=flat-square\&logo=angular\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
 
 Angular 17 SPA with REST API integration — reactive state, routing & component architecture.
 
@@ -301,6 +301,8 @@ Angular 17 SPA with REST API integration — reactive state, routing & component
 
 </div>
 
+<br/>
+
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kareem-Waled&hide_border=true&background=0D1117&ring=00ff9d&fire=00ff9d&currStreakLabel=00ff9d&sideLabels=c2d4e4&sideNums=ffffff&dates=5d7087&stroke=0d1117"/>
@@ -309,29 +311,13 @@ Angular 17 SPA with REST API integration — reactive state, routing & component
 
 <br/>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kareem-Waled&bg_color=0D1117&color=00ff9d&line=00ff9d&point=ffffff&area=true&area_color=003d1f&hide_border=true" width="100%"/>
-
-</div>
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Kareem-Waled&theme=onedark&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 ---
 
 ## 🌱 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kareem-Waled&amp;theme=react-dark&amp;hide_border=true&amp;area=true&amp;custom_title=Kareem%20Waleed%20Contribution%20Graph" alt="GitHub Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kareem-Waled&bg_color=0D1117&color=00ff9d&line=00ff9d&point=ffffff&area=true&area_color=003d1f&hide_border=true&custom_title=Kareem%20Waleed%20Contribution%20Graph" width="100%" alt="Kareem Waleed Contribution Graph"/>
 
 </div>
 
@@ -357,6 +343,8 @@ Angular 17 SPA with REST API integration — reactive state, routing & component
 </tr>
 </table>
 
+---
+
 ## 📜 Certifications
 
 <p>
@@ -371,12 +359,13 @@ Angular 17 SPA with REST API integration — reactive state, routing & component
 
 **Let's connect and build something great together 🤝**
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karem-waled)
-&nbsp;
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Kareem2003123r@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/karem-waled)
+ 
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:Kareem2003123r@gmail.com)
 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9d,55:003d1f,100:0d1117&height=120&section=footer" width="100%"/>
 
 </div>
+```
