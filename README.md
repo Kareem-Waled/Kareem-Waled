@@ -309,33 +309,18 @@ Angular 17 SPA with REST API integration — reactive state, routing & component
 
 <br/>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kareem-Waled&bg_color=0D1117&color=00ff9d&line=00ff9d&point=ffffff&area=true&area_color=003d1f&hide_border=true" width="100%"/>
-
-</div>
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Kareem-Waled&theme=onedark&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 🌱 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kareem-Waled&amp;theme=react-dark&amp;hide_border=true&amp;area=true&amp;custom_title=Kareem%20Waleed%20Contribution%20Graph" alt="GitHub Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kareem-Waled&bg_color=0D1117&color=00ff9d&line=00ff9d&point=ffffff&area=true&area_color=003d1f&hide_border=true&custom_title=Kareem%20Waleed%20Contribution%20Graph" width="100%" alt="GitHub Contribution Graph"/>
 
 </div>
 
 ---
+
+## 🎓 Education & Experience
+
 
 ## 🎓 Education & Experience
 
