@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=900&color=00FF9D&center=true&vCenter=true&width=780&height=36&lines=☁️+Provisioned+AWS+infra+with+Terraform+IaC;🚀+Built+GitOps+CD+pipelines+with+ArgoCD+%2B+K8s;🏦+Orchestrated+3-tier+banking+platform+on+Kubernetes;🔧+Automated+CI%2FCD+with+Jenkins+%26+GitHub+Actions;💜+Built+production-grade+REST+APIs+with+.NET+8;✅+Junior+DevOps+Engineer+—+Open+to+Opportunities" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=600&size=18&duration=2000&pause=900&color=00FF9D&center=true&vCenter=true&width=780&height=36&lines=Provisioned%20AWS%20infra%20with%20Terraform%20IaC;Built%20GitOps%20CD%20pipelines%20with%20ArgoCD%20and%20Kubernetes;Orchestrated%203-tier%20banking%20platform%20on%20Kubernetes;Automated%20CI%2FCD%20with%20Jenkins%20and%20GitHub%20Actions;Built%20production-grade%20REST%20APIs%20with%20.NET%208;Junior%20DevOps%20Engineer%20-%20Open%20to%20Opportunities" alt="Typing SVG"/>
 
 <br/><br/>
 
