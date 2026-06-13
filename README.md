@@ -362,7 +362,6 @@ Angular 17 SPA with REST API integration — reactive state, routing & component
 
 
 
-عدل الجزء اللي المفروض يتعدل بس ومتغيرش اي حاجه و رجع الكود كامل زي مانا باعتهولك
 
 <br/>
 
