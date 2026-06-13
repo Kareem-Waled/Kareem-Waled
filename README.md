@@ -1,107 +1,113 @@
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Kareem-Waled&style=for-the-badge&color=00ff9d&label=PROFILE+VIEWS&labelColor=0d1117"/>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:002a14,100:00ff9d&height=230&section=header&text=Kareem%20Waleed&fontSize=60&fontColor=ffffff&fontAlignY=37&desc=Junior%20DevOps%20Engineer%20%7C%20.NET%20Backend%20Developer&descAlignY=57&descSize=20&animation=twinkling" width="100%"/>
-
+[README_Kareem_Waleed_GitHub_Profile_Improved.md](https://github.com/user-attachments/files/28909797/README_Kareem_Waleed_GitHub_Profile_Improved.md)
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=900&color=00FF9D&center=true&vCenter=true&width=780&height=36&lines=☁️+Provisioned+AWS+infra+with+Terraform+IaC;🚀+Built+GitOps+CD+pipelines+with+ArgoCD+%2B+K8s;🏦+Orchestrated+3-tier+banking+platform+on+Kubernetes;🔧+Automated+CI%2FCD+with+Jenkins+%26+GitHub+Actions;💜+Built+production-grade+REST+APIs+with+.NET+8;✅+Junior+DevOps+Engineer+—+Open+to+Opportunities" alt="Typing SVG"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:003d1f,100:00ff9d&height=190&section=header&text=Kareem%20Waleed&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Junior%20DevOps%20Engineer%20%7C%20Cloud%20%26%20CI%2FCD%20%7C%20.NET%20Backend%20Background&descAlignY=58&descSize=16&animation=twinkling" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2300&pause=900&color=00FF9D&center=true&vCenter=true&width=850&height=36&lines=Building+CI%2FCD+pipelines+with+Jenkins+%26+GitHub+Actions;Deploying+containerized+apps+with+Docker+%26+Kubernetes;Automating+AWS+infrastructure+with+Terraform+%26+Ansible;Open+to+Junior+DevOps+%2F+Cloud+Engineer+opportunities" alt="Typing SVG" />
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karem-waled)
-[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Kareem2003123r@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kareem-Waled)
-[![WhatsApp](https://img.shields.io/badge/%2B20_155_649_4590-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201556494590)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karem-waled)
+[![Email](https://img.shields.io/badge/Email-Kareem2003123r%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Kareem2003123r@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Kareem--Waled-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kareem-Waled)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Kareem-Waled&label=Profile%20Views&color=00ff9d&style=flat-square" alt="Profile Views" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
+
+I am a **Junior DevOps Engineer** from Egypt with a strong **.NET backend and SQL Server background**. I enjoy building reliable deployment workflows, containerizing applications, and automating infrastructure using modern DevOps tools.
+
+My current focus is on **Docker, Kubernetes, CI/CD, AWS, Terraform, Ansible, Jenkins, and GitHub Actions**. I also understand backend development with **ASP.NET Core**, which helps me work better with development teams and troubleshoot applications from code to production.
 
 ```yaml
-name:      "Kareem Waleed AbdulHameed"
-role:      "Junior DevOps Engineer"
-location:  "Egypt 🇪🇬"
-education: "BSc Computer Science — Damietta University (2025)"
-
-currently:
-  building: "flowops-platform — GitOps microservices with Kubernetes + ArgoCD"
-  learning: "Helm Charts · Prometheus · Grafana · Advanced Kubernetes"
-  training: "DevOps Specialist @ Digilians · Egyptian Military Academy"
-
-expertise:
-  devops:   [ Kubernetes, Docker, Terraform, ArgoCD, Jenkins, AWS, Ansible ]
-  backend:  [ "ASP.NET Core", ".NET 8", "EF Core", "SQL Server", SignalR ]
-  cicd:     [ "Jenkins Pipelines", "GitHub Actions", "GitOps", "Bash Scripting" ]
-
-languages: [ "Arabic — Native", "English — Fluent", "French — Intermediate" ]
-status:    "🟢 Open to opportunities"
+name: "Kareem Waleed AbdulHameed"
+role: "Junior DevOps Engineer"
+location: "Egypt"
+education: "BSc Computer Science — Damietta University, 2025"
+training:
+  - "DevOps Specialist Trainee — Digilians, Egyptian Military Academy"
+  - ".NET Web Development Trainee — ITI, Suez Canal Branch, 162 hours"
+open_to:
+  - "Junior DevOps Engineer"
+  - "Cloud Engineer"
+  - "DevOps Internship"
+  - "CI/CD Engineer"
 ```
 
 ---
 
-## 🚀 DevOps & Cloud
+## 🎯 What I Can Do
 
-<br/>
+- Build and troubleshoot **CI/CD pipelines** using Jenkins and GitHub Actions.
+- Containerize applications using **Docker**, **Docker Compose**, and multi-stage Dockerfiles.
+- Deploy applications on **Kubernetes** using Deployments, Services, Ingress, ConfigMaps, Secrets, PVCs, HPA, RBAC, and NetworkPolicies.
+- Provision cloud infrastructure with **Terraform** and automate server configuration with **Ansible**.
+- Work with AWS basics including **EC2, S3, IAM, VPC**, and cloud-ready deployment flows.
+- Support backend teams with **ASP.NET Core Web API**, **EF Core**, and **SQL Server** knowledge.
+
+---
+
+## 🧰 Tech Stack
+
+### DevOps, Cloud & Automation
 
 <p align="center">
-  <img src="https://img.shields.io/badge/──────%20Orchestration%20&%20Containers%20──────-transparent?style=flat-square&labelColor=transparent&color=transparent"/>
+<img src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,aws,terraform,ansible,jenkins,githubactions,nginx,redis,git&perline=12" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kubernetes,docker,nginx,redis&perline=8&theme=dark"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+</p>
+
+### Backend & Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=dotnet,cs,postgres,mysql,angular,ts,html,css,bootstrap,postman,vscode,visualstudio&perline=12" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,ansible&perline=8&theme=dark"/>
-</p>
+---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=jenkins,bash,linux,python,git,github&perline=8&theme=dark"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
-<br/>
-
-### 🗂 DevOps Projects
+## 🚀 Featured DevOps Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🚀 [flowops-platform](https://github.com/Kareem-Waled/flowops-platform)
+### 🚀 [FlowOps Platform](https://github.com/Kareem-Waled/flowops-platform)
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
 
-GitOps platform deploying 2 microservices via Docker, K8s & ArgoCD — automated sync, health checks & rollback.
+GitOps-based DevOps platform for deploying microservices using Docker, Kubernetes, and Argo CD. Includes automated deployment flow, health checks, and rollback-focused delivery.
 
-> ✨ **Full GitOps CD loop** — push to repo, ArgoCD auto-deploys to cluster
+**Highlights**
+- GitOps continuous delivery workflow.
+- Kubernetes manifests for microservices.
+- Deployment visibility and operational readiness.
 
 </td>
 <td width="50%" valign="top">
@@ -110,26 +116,31 @@ GitOps platform deploying 2 microservices via Docker, K8s & ArgoCD — automated
 
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![HCL](https://img.shields.io/badge/HCL-7B42BC?style=flat-square)
 
-Full AWS infra with Terraform — VPC, EC2, S3 remote backend & DynamoDB state locking.
+Infrastructure as Code project for building AWS resources with Terraform, including VPC, EC2, S3 remote backend, and DynamoDB state locking.
 
-> ✨ **Remote state with locking** — zero state conflicts across teams
+**Highlights**
+- Reusable Terraform structure.
+- Remote state management.
+- AWS networking and compute basics.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🏦 [Banking Platform on K8s](https://github.com/Kareem-Waled/banking-platform-k8s)
+### 🏦 [Banking Platform on Kubernetes](https://github.com/Kareem-Waled/banking-platform-k8s)
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
-3-tier banking platform — RBAC, NetworkPolicy, HPA, StatefulSet, PVC, VPA, DaemonSet & rollback.
+3-tier banking platform deployed on Kubernetes with frontend, backend API, and PostgreSQL database.
 
-> ✨ **HPA auto-scales** pods under load — production-ready pattern
+**Highlights**
+- Deployments, Services, Ingress, ConfigMaps, and Secrets.
+- StatefulSet, PVC, HPA, RBAC, and NetworkPolicy.
+- Rollback strategy and production-style Kubernetes concepts.
 
 </td>
 <td width="50%" valign="top">
@@ -138,11 +149,14 @@ Full AWS infra with Terraform — VPC, EC2, S3 remote backend & DynamoDB state l
 
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![DockerHub](https://img.shields.io/badge/DockerHub-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-Automated pipeline: checkout → build → test → tag → push to DockerHub with GitHub Webhooks.
+CI/CD pipeline integrated with GitHub, Docker, and DockerHub to automate source checkout, build, testing, image tagging, and image push.
 
-> ✨ **Zero-touch deployment** — webhook triggers full pipeline automatically
+**Highlights**
+- Jenkins Pipeline as Code.
+- GitHub Webhook integration.
+- Secure credentials for DockerHub publishing.
 
 </td>
 </tr>
@@ -152,12 +166,15 @@ Automated pipeline: checkout → build → test → tag → push to DockerHub wi
 ### 🐳 [Docker Multi-Service App](https://github.com/Kareem-Waled/Task-Manager-Full-Stack-Docker-App)
 
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-5-service stack: Nginx + backend + PostgreSQL + Redis — multi-stage Dockerfiles & health checks.
+Containerized 5-service stack using Nginx reverse proxy, backend application instances, PostgreSQL, and Redis.
 
-> ✨ **Multi-stage builds** reduce final image size significantly
+**Highlights**
+- Multi-stage Dockerfiles.
+- Health checks and dependency conditions.
+- Environment-based configuration.
 
 </td>
 <td width="50%" valign="top">
@@ -167,9 +184,12 @@ Automated pipeline: checkout → build → test → tag → push to DockerHub wi
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
-Linux CLI tool for task CRUD — priority handling, overdue detection & input validation with awk/sed/grep.
+Linux CLI tool for managing tasks from the terminal with CRUD operations, filtering, priority handling, overdue detection, and input validation.
 
-> ✨ **Pure Bash** — zero dependencies, runs on any Linux system
+**Highlights**
+- Bash scripting automation.
+- awk, sed, grep, and Regex usage.
+- Practical Linux command-line workflow.
 
 </td>
 </tr>
@@ -177,43 +197,19 @@ Linux CLI tool for task CRUD — priority handling, overdue detection & input va
 
 ---
 
-## 💜 Backend .NET
-
-<br/>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,ts,postgres,mysql,html,css,bootstrap,postman,vscode,visualstudio&perline=12&theme=dark"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Angular_17-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
-
-<br/>
-
-### 🗂 Backend Projects
+## 💜 Backend Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎬 [Movies RESTful API](https://github.com/Kareem-Waled/MoviesAPIs) &nbsp; ![MIT](https://img.shields.io/badge/MIT-00cc44?style=flat-square)
+### 🎬 [Movies RESTful API](https://github.com/Kareem-Waled/MoviesAPIs)
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
-Full Movies API — Repository Pattern, EF Core, Swagger docs. Open source & MIT Licensed.
-
-> ✨ **Clean Architecture** — Repository Pattern separates concerns properly
+RESTful Movies API built with ASP.NET Core, EF Core, SQL Server, Repository Pattern, and Swagger documentation.
 
 </td>
 <td width="50%" valign="top">
@@ -224,24 +220,20 @@ Full Movies API — Repository Pattern, EF Core, Swagger docs. Open source & MIT
 ![.NET 8](https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
-Production-grade CRUD APIs — Repository Pattern, EF Core & SQL Server, fully tested via Postman.
-
-> ✨ **LINQ-optimized queries** — ~30% faster page load on data-heavy endpoints
+CRUD APIs using ASP.NET Core Web API, EF Core, SQL Server, Repository Pattern, and Postman testing.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 💬 [Real-time Chat — SignalR](https://github.com/Kareem-Waled/ChatApplicationSignalrAngular)
+### 💬 [Real-time Chat with SignalR](https://github.com/Kareem-Waled/ChatApplicationSignalrAngular)
 
 ![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Angular 17](https://img.shields.io/badge/Angular_17-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular_17-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-Real-time chat using ASP.NET Core SignalR WebSocket hub + Angular 17 SPA frontend.
-
-> ✨ **WebSocket persistence** — instant message delivery without polling
+Real-time chat application using ASP.NET Core SignalR WebSocket hub and Angular 17 SPA.
 
 </td>
 <td width="50%" valign="top">
@@ -252,35 +244,7 @@ Real-time chat using ASP.NET Core SignalR WebSocket hub + Angular 17 SPA fronten
 ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-Restaurant web app — product management, auth, cart & orders using ASP.NET Core MVC & EF Core.
-
-> ✨ **Full auth system** — login, roles, session & secured routes
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 👥 [Full-Stack Contacts App](https://github.com/Kareem-Waled/ASPNET8-Angular17-Contacts-App)
-
-![ASP.NET 8](https://img.shields.io/badge/ASP.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Angular 17](https://img.shields.io/badge/Angular_17-DD0031?style=flat-square&logo=angular&logoColor=white)
-
-ASP.NET Core 8 REST API consumed by Angular 17 SPA — CRUD with real-time UI sync.
-
-> ✨ **Decoupled architecture** — API-first backend, SPA frontend independently deployable
-
-</td>
-<td width="50%" valign="top">
-
-### ✅ [Angular 17 Todo + API](https://github.com/Kareem-Waled/angular_17_todo_app_with_api)
-
-![Angular 17](https://img.shields.io/badge/Angular_17-DD0031?style=flat-square&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-Angular 17 SPA with REST API integration — reactive state, routing & component architecture.
-
-> ✨ **Reactive state** — RxJS observables for clean async data flow
+Full-stack restaurant application with product management, authentication, cart, and order data using ASP.NET Core MVC and EF Core.
 
 </td>
 </tr>
@@ -288,96 +252,62 @@ Angular 17 SPA with REST API integration — reactive state, routing & component
 
 ---
 
-## 📊 GitHub Stats
+## 📌 Experience & Education
 
-<br/>
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kareem-Waled&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00ff9d&icon_color=00ff9d&text_color=c2d4e4&rank_icon=github&include_all_commits=true&count_private=true"/>
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kareem-Waled&layout=compact&hide_border=true&bg_color=0D1117&title_color=00ff9d&text_color=c2d4e4&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kareem-Waled&hide_border=true&background=0D1117&ring=00ff9d&fire=00ff9d&currStreakLabel=00ff9d&sideLabels=c2d4e4&sideNums=ffffff&dates=5d7087&stroke=0d1117"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kareem-Waled&bg_color=0D1117&color=00ff9d&line=00ff9d&point=ffffff&area=true&area_color=003d1f&hide_border=true" width="100%"/>
-
-</div>
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Kareem-Waled&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=6"/>
-
-</div>
-
----
-
-## 🌱 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Kareem-Waled/Kareem-Waled/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-
-</div>
-
-> 💡 *To enable the snake animation: add [this workflow](https://github.com/Platane/snk#usage) to `.github/workflows/snake.yml` in this repo.*
-
----
-
-## 🎓 Education & Experience
-
-<table width="100%">
+<table>
 <tr>
-<td align="center" width="40">🏭</td>
-<td><strong>DevOps Specialist Trainee</strong> — Digilians · Egyptian Military Academy</td>
-<td align="right"><code>2025 – Present</code></td>
+<td align="center">🏭</td>
+<td><strong>DevOps Specialist Trainee</strong></td>
+<td>Digilians · Digital Pioneers Initiative · Egyptian Military Academy</td>
+<td align="center"><code>2025 – Present</code></td>
 </tr>
 <tr>
 <td align="center">💻</td>
-<td><strong>.NET Web Dev Trainee</strong> — Information Technology Institute (ITI) · Suez Canal Branch &nbsp; <code>162 hrs</code></td>
-<td align="right"><code>Jun – Aug 2024</code></td>
+<td><strong>.NET Web Development Trainee</strong></td>
+<td>Information Technology Institute · ITI Suez Canal Branch · 162 hours</td>
+<td align="center"><code>Jun 2024 – Aug 2024</code></td>
 </tr>
 <tr>
 <td align="center">🎓</td>
-<td><strong>BSc Computer Science</strong> — Faculty of CS & AI · Damietta University</td>
-<td align="right"><code>2025</code></td>
+<td><strong>BSc Computer Science</strong></td>
+<td>Faculty of Computers and Artificial Intelligence · Damietta University</td>
+<td align="center"><code>2025</code></td>
 </tr>
 </table>
 
-## 📜 Certifications
-
-<p>
-<img src="https://img.shields.io/badge/AWS_Cloud_Technical_Essentials-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git_%26_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/>
-</p>
-
 ---
+
+## 📊 GitHub Activity
 
 <div align="center">
 
-**Let's connect and build something great together 🤝**
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karem-waled)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Kareem-Waled&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00ff9d&icon_color=00ff9d&text_color=c2d4e4&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 &nbsp;
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Kareem2003123r@gmail.com)
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kareem-Waled&layout=compact&hide_border=true&bg_color=0D1117&title_color=00ff9d&text_color=c2d4e4&langs_count=8" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kareem-Waled&hide_border=true&background=0D1117&ring=00ff9d&fire=00ff9d&currStreakLabel=00ff9d&sideLabels=c2d4e4&sideNums=ffffff&dates=5d7087" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kareem-Waled&bg_color=0D1117&color=00ff9d&line=00ff9d&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+
+</div>
+
+---
+
+## 📫 Contact
+
+<div align="center">
+
+I am open to **Junior DevOps Engineer**, **Cloud Engineer**, and **DevOps Internship** opportunities.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karem-waled)
+[![Email](https://img.shields.io/badge/Email-Send%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Kareem2003123r@gmail.com)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9d,55:003d1f,100:0d1117&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9d,60:003d1f,100:0d1117&height=110&section=footer" width="100%" />
 
 </div>
